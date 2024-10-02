@@ -1,3 +1,8 @@
+//program to calculate loan program
+/*Author:Linus
+Reg No:CT102/G/22937/24
+Date:2/10/2024
+*/
 #include <stdio.h>
 int main() {
 	int age;
