@@ -1,3 +1,8 @@
+//program to calculate library program
+/*Author:Linus
+Reg No:CT102/G/22937/24
+Date:1/10/2024
+*/
 #include <stdio.h>
 int main () {
 	int bookID,dueDate,returnDate,daysOverdue,fineRate,fineAmount;
